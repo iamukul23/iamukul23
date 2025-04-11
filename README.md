@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Js, Node Js**
 
-- 🤔 I’m looking [for help in DSA](for help in DSA)
+- 🤔 I’m looking for help in DSA.
 
 - 💬 Ask me about **I am Happy to Help**
 

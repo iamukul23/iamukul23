@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Mukul 👋</h1>
-<img alt="Coder GIF" height=250 width=500 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
 
